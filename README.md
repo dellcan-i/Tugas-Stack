@@ -1,7 +1,7 @@
 # Tugas-Stack
 
 Nama  : Adellia Alfiur Faesola Putri <br>
-NIM   : 25161562033 <br>
+NPM   : 25161562033 <br>
 Kelas : 2A <br>
 
 Hasil running program
